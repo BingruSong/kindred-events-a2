@@ -11,7 +11,7 @@ The original A2 brief is the source of course requirements. The supplied handoff
 | Clear Filters and understandable DOM errors | Search interaction checks |
 | Register construction notice | Exact string check in detail interaction |
 | Report in supplied template | Filled DOCX and visual render |
-| Authentic GitHub history and private visibility to other students | Dated commits, private repository URL after correct account login |
+| Authentic GitHub history and restricted visibility to other students | Dated commits and repository URL; current public setting conflicts with this brief requirement because the user explicitly requested public access |
 | Demonstration video of 15 minutes or less | Bilingual practice script; student-owned recording and OneDrive link remain to be supplied |
 | Two named ZIP archives | Extract and run check, with username placeholder until the correct username is confirmed |
 

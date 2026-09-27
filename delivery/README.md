@@ -4,4 +4,4 @@ The ZIP filenames use `USERNAME` as a placeholder because the assignment does no
 
 Extract both archives into the same folder. This restores `clientside/`, `api/`, `package.json`, `package-lock.json` and `README.md`. Follow the root README to import MySQL, install dependencies and run the website. The report is separately provided at `docs/PROG2002 A2 Report.docx`.
 
-The video must be recorded and uploaded by the student to their SCU OneDrive. Confirm its teacher access and the private GitHub repository's teacher access before submission.
+The video must be recorded and uploaded by the student to their SCU OneDrive. Confirm its teacher access before submission. The repository is public by the user's explicit request, although the original brief asks for visibility limited from other students.

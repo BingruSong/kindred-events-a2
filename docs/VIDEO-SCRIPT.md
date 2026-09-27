@@ -54,6 +54,6 @@ This is a practice script for a student-recorded video. Target spoken English pl
 
 **Screen action:** Run `npm test`; show the actual result. Briefly show the report's data schema and API design answers, then return to the site. If available, demonstrate the page at a narrow browser width. Keep the final recording under 15 minutes.
 
-**Speak (English):** “The automated tests cover filter validation and route responses using a database stub. I also checked the browser flow. Before submission, I verify the SQL import and repeat these requests against a live MySQL database, then confirm the private repository and video link can be accessed by the teacher.”
+**Speak (English):** “The automated tests cover filter validation and route responses using a database stub. I also checked the browser flow. Before submission, I verify the SQL import and repeat these requests against a live MySQL database, then confirm the repository and video link can be accessed by the teacher.”
 
-**中文理解：** 自动测试用数据库替身检查筛选校验和接口响应；浏览器流程也做过检查。提交前仍需用真实 MySQL 导入、复测接口，并确认教师可访问私有仓库与视频链接。
+**中文理解：** 自动测试用数据库替身检查筛选校验和接口响应；浏览器流程也做过检查。提交前仍需用真实 MySQL 导入、复测接口，并确认教师可访问仓库与视频链接。
