@@ -1,0 +1,17 @@
+{
+  "name": "kindred-events-a2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kindred Events charity event discovery site",
+  "scripts": {
+    "start": "node api/server.js",
+    "test": "node --test api/test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.0"
+  }
+}

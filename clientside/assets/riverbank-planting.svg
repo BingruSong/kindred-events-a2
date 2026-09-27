@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of hands planting trees beside a river">
+<rect width="640" height="480" fill="#dce9db"/>
+<circle cx="540" cy="70" r="118" fill="#f7cf86" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#a9c8a3"/>
+<path d="M0 394Q120 364 260 408T640 399" fill="none" stroke="#6eaaac" stroke-width="44"/><path d="M0 394Q120 364 260 408T640 399" fill="none" stroke="#c4e4df" stroke-width="20"/><path d="M138 354v-120M309 353V180M477 360V221" stroke="#735a43" stroke-width="16"/><g fill="#5d9572"><ellipse cx="138" cy="210" rx="55" ry="74"/><ellipse cx="305" cy="163" rx="72" ry="95"/><ellipse cx="481" cy="197" rx="61" ry="82"/></g><g fill="#83af75"><circle cx="108" cy="200" r="35"/><circle cx="280" cy="144" r="45"/><circle cx="452" cy="179" r="40"/></g><path d="M204 360q30-38 53 0l-26 18z" fill="#bd8260"/><path d="M225 357v-82" stroke="#365446" stroke-width="5"/><path d="M225 308q-50-10-44-51 42 4 44 51M225 301q43-33 70-8-27 34-70 8" fill="#74a66b"/>
+<g fill="none" stroke="#365446" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M97 278q42 20 68 0M414 285q42 20 68 0"/></g>
+<g fill="#365446" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

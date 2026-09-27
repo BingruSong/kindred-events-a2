@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of a handmade market stall">
+<rect width="640" height="480" fill="#f2e1d0"/>
+<circle cx="540" cy="70" r="118" fill="#f5c590" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#d4c497"/>
+<path d="M104 171h430l-29 89H133z" fill="#fff4df"/><path d="M104 171h72l-5 89h-38zM246 171h72v89h-72zM389 171h72l16 89h-72z" fill="#cd8377"/><rect x="139" y="260" width="360" height="141" fill="#9a705c"/><rect x="164" y="285" width="309" height="96" fill="#e3be8f"/><ellipse cx="220" cy="302" rx="37" ry="20" fill="#a2b481"/><ellipse cx="307" cy="302" rx="37" ry="20" fill="#d08d6f"/><ellipse cx="399" cy="302" rx="37" ry="20" fill="#98aa8d"/><path d="M201 334h44l-9 33h-27zM290 334h43l-8 33h-27zM378 334h44l-9 33h-27z" fill="#f1e4d0"/><path d="M165 171l32-57h244l38 57" fill="#e1ba8a"/><circle cx="320" cy="141" r="14" fill="#e6a579"/>
+<g fill="none" stroke="#684e46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M196 114h245M178 381h290M204 345h36M294 345h36M382 345h36"/></g>
+<g fill="#684e46" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

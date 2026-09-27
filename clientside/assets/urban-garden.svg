@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of an urban community garden">
+<rect width="640" height="480" fill="#e6ead8"/>
+<circle cx="540" cy="70" r="118" fill="#f1c894" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#b0c79d"/>
+<rect x="88" y="128" width="143" height="254" fill="#a4b5a0"/><rect x="257" y="91" width="127" height="291" fill="#c5ba9d"/><rect x="414" y="151" width="139" height="231" fill="#b0bda7"/><g fill="#e5e9d4"><rect x="110" y="156" width="24" height="31"/><rect x="154" y="156" width="24" height="31"/><rect x="286" y="121" width="25" height="32"/><rect x="333" y="121" width="25" height="32"/><rect x="445" y="177" width="25" height="31"/><rect x="493" y="177" width="25" height="31"/></g><rect x="79" y="325" width="484" height="91" rx="4" fill="#a47c61"/><rect x="91" y="337" width="461" height="51" fill="#785e4d"/><g fill="#699869"><ellipse cx="151" cy="302" rx="35" ry="44"/><ellipse cx="258" cy="297" rx="41" ry="48"/><ellipse cx="378" cy="301" rx="38" ry="48"/><ellipse cx="492" cy="296" rx="42" ry="47"/></g><g fill="#8eb47a"><circle cx="134" cy="282" r="20"/><circle cx="238" cy="271" r="22"/><circle cx="361" cy="276" r="22"/><circle cx="474" cy="270" r="24"/></g>
+<g fill="none" stroke="#5b6851" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M151 348v-81M258 348v-86M378 348v-87M492 348v-90"/></g>
+<g fill="#5b6851" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

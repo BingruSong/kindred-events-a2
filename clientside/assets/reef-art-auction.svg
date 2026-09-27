@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of reef inspired art on an easel">
+<rect width="640" height="480" fill="#dce8e4"/>
+<circle cx="540" cy="70" r="118" fill="#f2c49e" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#aecbbd"/>
+<path d="M317 112l-117 284M322 112l122 284" fill="none" stroke="#8d7462" stroke-width="17"/><rect x="160" y="91" width="323" height="252" rx="4" fill="#a98271"/><rect x="178" y="109" width="287" height="215" fill="#77b3b2"/><path d="M178 242q69-55 136 0t151 1v81H178Z" fill="#4c8e9d"/><path d="M215 297q-8-65 16-78 21 15 3 32 39-23 42 2-26 14-41 13 34 8 27 30" fill="#e8a18c"/><path d="M364 301q-17-81 9-96 25 15 2 47 42-24 45 0-27 16-45 10 30 13 22 37" fill="#eac497"/><ellipse cx="315" cy="170" rx="27" ry="12" fill="#d8e8c1"/><ellipse cx="397" cy="191" rx="21" ry="9" fill="#d8e8c1"/><circle cx="233" cy="174" r="6" fill="#d3dfd3"/><circle cx="273" cy="151" r="4" fill="#d3dfd3"/>
+<g fill="none" stroke="#4b6670" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M179 109h286v215H179M210 334h228"/></g>
+<g fill="#4b6670" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

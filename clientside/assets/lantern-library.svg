@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of an evening library with glowing lanterns">
+<rect width="640" height="480" fill="#2f4d53"/>
+<circle cx="540" cy="70" r="118" fill="#e4a86f" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#426867"/>
+<rect x="104" y="132" width="430" height="275" rx="5" fill="#dfad79"/><path d="M90 151L320 52l228 99" fill="#c98e65"/><rect x="154" y="185" width="90" height="165" fill="#6d8d81"/><rect x="275" y="185" width="90" height="165" fill="#6d8d81"/><rect x="395" y="185" width="90" height="165" fill="#6d8d81"/><g fill="#f5db9d"><rect x="168" y="198" width="61" height="140"/><rect x="290" y="198" width="60" height="140"/><rect x="410" y="198" width="60" height="140"/></g><g fill="#be7d6c"><rect x="177" y="213" width="11" height="55"/><rect x="194" y="218" width="18" height="50"/><rect x="300" y="217" width="13" height="48"/><rect x="322" y="210" width="18" height="55"/><rect x="420" y="217" width="17" height="53"/><rect x="445" y="211" width="14" height="59"/></g><g fill="#f7d891"><circle cx="123" cy="99" r="22"/><circle cx="511" cy="95" r="19"/><circle cx="324" cy="106" r="20"/></g><path d="M123 0v78M511 0v76M324 0v85" stroke="#dec491" stroke-width="3"/>
+<g fill="none" stroke="#d8e5d2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M150 375h339M98 153h446M154 280h90M275 280h90M395 280h90"/></g>
+<g fill="#d8e5d2" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

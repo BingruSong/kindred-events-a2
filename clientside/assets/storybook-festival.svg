@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of books and a festival tent">
+<rect width="640" height="480" fill="#ebe2da"/>
+<circle cx="540" cy="70" r="118" fill="#f4c690" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#b6c9a0"/>
+<path d="M113 314l210-171 210 171z" fill="#dc9e8d"/><path d="M323 143v191H112z" fill="#f4d9ae"/><path d="M323 143v191h211z" fill="#ce8790"/><path d="M243 334q80-124 160 0" fill="#677c75"/><path d="M220 143l103-83 99 83" fill="none" stroke="#937867" stroke-width="13"/><path d="M164 342h150l-12 69H165z" fill="#f8ebcf"/><path d="M314 342h153l4 69H302z" fill="#f0d1a5"/><path d="M314 342v69" fill="none" stroke="#8c695e" stroke-width="5"/><path d="M68 195l22-35 21 35-21 33zM552 205l22-35 20 35-20 33z" fill="#f5d585"/><path d="M90 0v161M574 0v171" stroke="#a98279" stroke-width="3"/>
+<g fill="none" stroke="#604f60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M182 364h109M177 383h113M329 365h119M330 384h118"/></g>
+<g fill="#604f60" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

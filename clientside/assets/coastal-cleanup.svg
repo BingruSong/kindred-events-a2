@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of a coastal beach clean-up">
+<rect width="640" height="480" fill="#cbe5e4"/>
+<circle cx="540" cy="70" r="118" fill="#f6d48e" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#f0d6aa"/>
+<path d="M0 273q75-35 160 0t160 0 160 0 160 0v128H0Z" fill="#79b9bf"/><path d="M0 305q75-35 160 0t160 0 160 0 160 0" fill="none" stroke="#e6f7ed" stroke-width="13"/><path d="M68 325l92-53 53 94-98 35z" fill="#e69d77"/><path d="M122 304l84-76 99 118-87 84z" fill="#f7edce"/><path d="M334 342l80-46 78 98-93 35z" fill="#b1c77f"/><path d="M490 326l61-39 43 72-64 43z" fill="#e0a974"/><path d="M244 216v-72" stroke="#466773" stroke-width="10"/><path d="M236 146q40-90 126-14-48 19-126 14" fill="#efae83"/><circle cx="80" cy="416" r="10" fill="#f9f2df"/><circle cx="290" cy="425" r="7" fill="#f9f2df"/>
+<g fill="none" stroke="#43686a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M112 343l49-29M391 356l34-19M511 342l24-15"/></g>
+<g fill="#43686a" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>

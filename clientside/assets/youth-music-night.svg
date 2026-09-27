@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Illustration of instruments beneath stage lights">
+<rect width="640" height="480" fill="#3f4d5b"/>
+<circle cx="540" cy="70" r="118" fill="#8c7182" opacity=".48"/>
+<circle cx="82" cy="110" r="65" fill="#fff" opacity=".22"/>
+<path d="M0 381C126 327 220 403 330 366S514 312 640 377V480H0Z" fill="#525868"/>
+<path d="M0 322q91 20 180 0t180 0 280 0v158H0Z" fill="#374b53"/><path d="M90 0l77 246 72-246M408 0l75 252L551 0" fill="#a5a382" opacity=".35"/><circle cx="168" cy="253" r="49" fill="#d4947e"/><path d="M164 209v-84h10v87" fill="#d9a889"/><circle cx="479" cy="259" r="50" fill="#e4bd83"/><path d="M479 218V119" stroke="#dec09a" stroke-width="12"/><path d="M249 360q62-110 135 0" fill="#c3b088"/><circle cx="317" cy="314" r="52" fill="#e6d8b6"/><circle cx="317" cy="314" r="33" fill="#a78175"/><path d="M317 263v-92M293 183h49" stroke="#c4ad8e" stroke-width="9"/><path d="M142 260q34-47 56 0M451 266q29-49 57 0" fill="none" stroke="#6f5f62" stroke-width="11"/>
+<g fill="none" stroke="#e3d7c6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M100 364q87 18 170 1M366 366q92 20 174-2"/></g>
+<g fill="#e3d7c6" opacity=".45"><circle cx="46" cy="52" r="3"/><circle cx="60" cy="63" r="2"/><circle cx="582" cy="195" r="3"/><circle cx="594" cy="208" r="2"/></g>
+</svg>
