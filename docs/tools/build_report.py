@@ -6,7 +6,7 @@ from docx.oxml import OxmlElement
 from docx.text.paragraph import Paragraph
 from docx.shared import Pt
 
-SOURCE = Path(r"D:\OneDrive - Southern Cross University\桌面\web 2\PROG2002 A2 Report.docx")
+SOURCE = Path(r"E:\下载\PROG2002 A2 Report.docx")
 OUTPUT = Path(__file__).resolve().parents[1] / "PROG2002 A2 Report.docx"
 
 
@@ -63,8 +63,41 @@ def main():
     add_after(original[23],
         "All three endpoints use GET because they retrieve data without changing it. /api/events is a collection resource, /api/categories is a lookup collection, and /api/events/:id identifies one event. "
         "Invalid query values receive HTTP 400; a missing or unpublished event receives HTTP 404. POST, PUT and DELETE are not implemented because this assignment's specified registration interaction is a construction notice and the site has no data-writing function.")
-    add_after(document.paragraphs[-1],
-        "AI assistance disclosure: Generative AI assisted the implementation and drafting of this project. Its generated material and automated test results should be reviewed by the student before submission; no unverified real database or video test is claimed here.")
+    original[26].paragraph_format.page_break_before = True
+    original[26].paragraph_format.keep_with_next = True
+    original[27]._element.getparent().remove(original[27]._element)
+    original[30]._element.getparent().remove(original[30]._element)
+    original[29]._element.getparent().remove(original[29]._element)
+    original[28].text = (
+        "I acknowledge that I have used GenAI tools to complete this assessment. I used OpenAI Codex to analyse the assessment requirements, "
+        "help design and implement the MySQL schema, Express API and browser interface, generate original SVG illustrations, "
+        "assist with tests and troubleshooting, and draft the report and bilingual demonstration script. "
+        "This statement records the actual assistance used. The applicable GenAI permission must be confirmed against the course policy before submission."
+    )
+    original[28].paragraph_format.line_spacing = 1.5
+    original[28].paragraph_format.keep_together = True
+    for run in original[28].runs:
+        run.font.name = "Arial"
+        run.font.size = Pt(12)
+    anchor = add_after(original[28],
+        "Chat log scope: These are selected request excerpts and summaries of AI assistance, not a complete conversation export. "
+        "The brief's GenAI Use Level is blank; no assessor approval is claimed.")
+    entries = [
+        "27 September 2026 — Request excerpt: “开始做这个项目” and “你可以调用智能体辅助你工作。建立计划，一步一步来。” "
+        "Codex analysed the brief and planned the project. Delegated agents assisted with requirements, database/API code and frontend code. "
+        "Codex generated tests and reviewed the outputs.",
+        "28 September 2026 — Request excerpt: “链接BingruSong的GitHub账号 接着完成任务”. Codex created and pushed the repository. "
+        "After the explicit request “你直接设置为公开吧，谁都可以访问”, it explained the conflict with the brief's visibility requirement and made the repository public.",
+        "28 September 2026 — Request excerpts: “包括视频演讲稿（中英双语带操作提醒）” and “演讲稿做成word，重新放进去”. "
+        "Codex drafted and formatted the bilingual Word script with timing budgets and screen actions. It did not record or upload a video.",
+        "28 September 2026 — Request excerpt: “按照这个新模板来写，写好后替换掉源文件里的word”. "
+        "Codex filled this updated template, acknowledged actual AI use and inspected the rendered report. Identity fields remain blank.",
+    ]
+    for entry in entries:
+        anchor = add_after(anchor, entry)
+    add_after(anchor,
+        "Verification boundary: Route/filter tests and browser checks used a database stub. Live MySQL verification remains pending because "
+        "the local environment has no MySQL server or CLI. The student must review the work and supply a full conversation export if the Unit Assessor requires it.")
 
     document.core_properties.author = ""
     document.core_properties.last_modified_by = ""
