@@ -8,3 +8,4 @@ dist/
 .DS_Store
 docs/template-render/
 docs/report-render/
+docs/video-render*/
